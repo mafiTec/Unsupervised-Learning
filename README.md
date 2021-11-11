@@ -15,9 +15,9 @@ K-Means clustering
 
 Principal Component Analysis
 
-- <b>silhouette_score:</b> 0.525863077001247
-- <b>skills used:</b> sklearn,pandas,numpy,matplotlib, Seaborn, scipy, KMeans.
-- <b>project Description:</b>auto-mpg
+- <b>pca_low_dim.explained_variance</b>0.72499604 0.22823171 0.07184818
+- <b>skills used:</b> sklearn,pandas,numpy,matplotlib, Seaborn, MinMaxScaler,PCA,
+- <b>project Description:</b>fifa19
 - 
  DBScan 
  
