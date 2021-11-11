@@ -9,9 +9,9 @@ K-Means clustering
 
  Hierarchical clustering
  
- - <b>silhouette_score:</b> 0.525863077001247
-- <b>skills used:</b> sklearn,pandas,numpy,matplotlib, Seaborn, scipy, KMeans.
-- <b>project Description:</b>auto-mpg
+ 
+- <b>skills used:</b> sklearn,pandas,numpy,matplotlib, Seaborn, scipy,pylab, dendrogram,linkage,fcluster,cophenet,pdist,rcParams,AgglomerativeClustering
+- <b>project Description:</b>diabetes resarch 
 
 Principal Component Analysis
 
